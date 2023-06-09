@@ -1,6 +1,6 @@
 
 - Formado em Sistemas de Informação
-- Estudando na Rocketseat Explorer
+- Estudando na Rocketseat: programa Explorer
 - Estudando JavaScript:
 - -- Estudando Node.js
 
