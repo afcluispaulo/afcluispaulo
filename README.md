@@ -2,7 +2,7 @@
 - Formado em Sistemas de Informação
 - Estudando na Rocketseat Explorer
 - Estudando JavaScript:
--- Estudando Node.js
+- -- Estudando Node.js
 
 <div align="center">
   <a href="https://github.com/afcluispaulo">
