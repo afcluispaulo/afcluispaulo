@@ -4,6 +4,8 @@
 - Estudando JavaScript:
 - -- Estudando Node.js
 
+
+## Linguagens e progresso
 <div align="center">
   <a href="https://github.com/afcluispaulo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afcluispaulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
