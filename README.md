@@ -2,7 +2,7 @@
 - Formado em Sistemas de Informação
 - Estudando na Rocketseat: programa Explorer
 - Estudando JavaScript:
-- -- Estudando Node.js
+- -- Estudando Reactjs
 
 
 ## Linguagens e progresso
@@ -10,6 +10,7 @@
   <a href="https://github.com/afcluispaulo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afcluispaulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afcluispaulo&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" alt="Rafa-React" height="100em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
  <div style="display: inline_block"><br>
