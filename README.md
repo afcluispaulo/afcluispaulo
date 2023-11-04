@@ -3,7 +3,7 @@
 - Estudando na Rocketseat: programa Explorer
 - Estudando JavaScript:
 - -- Estudando Reactjs
-
+- --- Estudando API Restful
 
 ## Linguagens e progresso
 <div align="center">
