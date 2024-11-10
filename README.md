@@ -1,5 +1,5 @@
 # Sobre mim
-- Desenvolvedor senior
+- Desenvolvedor Senior
 - Formado em Sistemas de Informação
 - Curso de Lógica de Programaçåo nas plataformas Estudonauta
 - Curso de Lógica de Programaçåo em Python no Curso em Video
