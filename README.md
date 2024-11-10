@@ -1,7 +1,8 @@
 # Sobre mim
 - Formado em Sistemas de Informação
 - Curso de Lógica de Programaçåo nas plataformas Estudonauta
-- Curso de LLógica de Programaçåo em Python no Curso em Video
+- Curso de Lógica de Programaçåo em Python no Curso em Video
+_ Curso de Git e Github no Curso em Video
 - Estudando na Rocketseat: programa Explorer
 - Estudando JavaScript:
 - -- Estudando Reactjs
