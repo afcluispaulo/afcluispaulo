@@ -37,6 +37,11 @@
 - Formado em Redes de Computadores
 - Formado em Segurança da Informção
 
+- Formado em Lógica de Programaçao no Estudonauta
+- Formado em Lógica de Programação no Curso em Vóideo
+- Formado em Desenvolvimento Web no Curso em Vídeo
+- Formado em Java no Curso em Vídeo
+
 # Mestrados
 -- Mestrado em SIstemas de Informação na Federal
 -- Mestrado em Banco de Dados na Federal
