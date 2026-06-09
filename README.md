@@ -8,11 +8,12 @@
 -- Desenvolvedor da Apple
 -- Desenvolvedor do Clube de Regatas do Flamengo
 
-#Graduações 
+# Graduações 
 - Formado em Sistemas de Informação
 - Formado em Redes de Computadores
 - Formado em Segurança da Informção
 
+# Mestrados
 -- Mestrado em SIstemas de Informação na Federal
 -- Mestrado em Banco de Dados na Federal
 -- Mestrado em Redes de Computadores na Federal
