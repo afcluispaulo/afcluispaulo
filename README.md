@@ -1,6 +1,23 @@
 # Sobre mim
-- Desenvolvedor Senior
+-- Casado com Professora Borrachinha (Europa)
+
+- Desenvolvedor Team Leader
+
+# Trabalhos
+-- Rocketseat (programa Team Leader (profesor de galera)
+-- Desenvolvedor da Apple
+-- Desenvolvedor do Clube de Regatas do Flamengo
+
+#Graduações 
 - Formado em Sistemas de Informação
+- Formado em Redes de Computadores
+- Formado em Segurança da Informção
+
+-- Mestrado em SIstemas de Informação na Federal
+-- Mestrado em Banco de Dados na Federal
+-- Mestrado em Redes de Computadores na Federal
+-- Mestrado em Segurança de Informação na Federal
+
 - Curso de Lógica de Programaçåo nas plataformas Estudonauta
 - Curso de Lógica de Programaçåo em Python no Curso em Video
 - Curso de Git e Github no Curso em Video
@@ -8,6 +25,33 @@
 - Estudando JavaScript:
 - -- Estudando Reactjs
 - --- Estudando API Restful
+- Curso de React Native na Rocketseat
+
+-- Microserviços
+-- AWS
+-- Kubernetes
+
+#Javascript
+-- Typescript
+-- Sequelize
+-- mongoDB
+-- KnexJS
+
+#FrontEnd
+-- React Native
+-- ReactJS
+-- TypeScript
+
+
+## Graduações
+
+-- Mestre de Capoeira Angola e Regional
+-- Faixa Preta Taekwondo
+-- Faixa Preta Karate
+-- Faixa preta Jiu Jitsu
+-- Faixa preta Judo
+-- Faixa Preta Kickboxing
+-- 
 
 ## Linguagens e progresso
 <div align="center">
