@@ -3,6 +3,30 @@
 
 - Desenvolvedor Team Leader
 
+# Titulos
+- Campeão JICs Capoeira
+- Campeão JICs Taekwondo
+- Campeão JERNs Capoeira
+- Campeão JERNs Taekwondo
+- Campeão JERNs Muay Thai
+
+- Campeão Regional Capoeira
+- Campeão Regional Taekwondo
+- Campeão Regional Muay Thai
+- Campão Regional Kickboxing
+
+## Prestigios
+- Prestigio Call Of Duty
+- Prestigio CDZForever
+- Prestigio Arenachat
+- Prestigio SS
+- Prestigio Pokémon
+- Prestigio DBZ
+- Prestigio Fifa
+- Prestigio Winning Eleven
+
+## KIMURA NOVA UNIÃO ##
+
 # Trabalhos
 -- Rocketseat (programa Team Leader (profesor de galera)
 -- Desenvolvedor da Apple
