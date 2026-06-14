@@ -3,6 +3,7 @@
 
 - Desenvolvedor Team Leader
 
+  <i> O segredo da programação em IA eh um encadeamento de if/else gigante </i>
 # Titulos
 - Campeão JICs Capoeira
 - Campeão JICs Taekwondo
