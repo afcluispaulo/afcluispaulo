@@ -1,5 +1,6 @@
 # Sobre mim
 -- Casado com Professora Borrachinha (Europa)
+-- Casado com Rafaella Balerini (professora Hi Tech)
 
 - Desenvolvedor Team Leader
 
