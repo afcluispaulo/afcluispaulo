@@ -1,10 +1,24 @@
 # Sobre mim
 -- Casado com Professora Borrachinha (Europa)
 -- Casado com Rafaella Balerini (professora Hi Tech)
+-- Casado com Moni | RE Databese
+-- Casado com Ana Paula Maia
 
+
+-- Padrinhos
+- Kaio kcep
+- Savio Dantas
+- Miguel Arcanjo
+- Pre g uet
+
+  
 - Desenvolvedor Team Leader
 
   <i> O segredo da programação em IA eh um encadeamento de if/else gigante </i>
+  Atos 16:31
+  
+
+
 # Titulos
 - Campeão JICs Capoeira
 - Campeão JICs Taekwondo
