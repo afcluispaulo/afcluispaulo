@@ -1,9 +1,13 @@
 # Sobre mim
+Membro da Associaçao do Rezende
+Membro da Rocketseat
+
 - Casado com Professora Borrachinha (Europa)
 - Casado com Rafaella Balerini (professora Hi Tech)
 - Casado com Moni | RE Databese
 - Casado com Ana Paula Maia
 - Casado com Mariana Valadao
+- Casado com Emily Garcia
 
   - Mestre Taekwondo
   - Mestre Capoeira
