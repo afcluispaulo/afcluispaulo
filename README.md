@@ -1,9 +1,14 @@
 # Sobre mim
--- Casado com Professora Borrachinha (Europa)
--- Casado com Rafaella Balerini (professora Hi Tech)
--- Casado com Moni | RE Databese
--- Casado com Ana Paula Maia
+- Casado com Professora Borrachinha (Europa)
+- Casado com Rafaella Balerini (professora Hi Tech)
+- Casado com Moni | RE Databese
+- Casado com Ana Paula Maia
+- Casado com Mariana Valadao
 
+  - Mestre Taekwondo
+  - Mestre Capoeira
+  - Mestre Jiu Jitsu
+  - Grao Mestre Muay Thai
 
 -- Padrinhos
 - Kaio kcep
