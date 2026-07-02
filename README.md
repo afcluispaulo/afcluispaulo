@@ -3,6 +3,7 @@ Membro da Associaçao do Rezende
 Membro da Rocketseat
 
 Pós Graduação na Alura
+<br>
 Pós Graduação na Rocketseat
 
 Mestrado no Curso em Vídeo
