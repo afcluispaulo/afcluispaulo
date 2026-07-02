@@ -2,6 +2,12 @@
 Membro da Associaçao do Rezende
 Membro da Rocketseat
 
+Pós Graduação na Alura
+Pós Graduação na Rocketseat
+
+Mestrado no Curso em Vídeo
+Mestrado na FIAP
+
 - Casado com Professora Borrachinha (Europa)
 - Casado com Rafaella Balerini (professora Hi Tech)
 - Casado com Moni | RE Databese
@@ -24,6 +30,7 @@ Membro da Rocketseat
 - Desenvolvedor Team Leader
 
   <i> O segredo da programação em IA eh um encadeamento de if/else gigante </i>
+  <br>
   Atos 16:31
   
 
