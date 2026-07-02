@@ -7,6 +7,7 @@ Pós Graduação na Alura
 Pós Graduação na Rocketseat
 
 Mestrado no Curso em Vídeo
+<br>
 Mestrado na FIAP
 
 - Casado com Professora Borrachinha (Europa)
