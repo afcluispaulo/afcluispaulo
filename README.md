@@ -32,11 +32,8 @@ Mestrado na FIAP
 - Desenvolvedor Team Leader
 
   <i> O segredo da programação em IA eh um encadeamento de if/else gigante </i>
-  <br>
-  Atos 16:31
-  <br>
-  "Porém, se vos parece mal aos vossos olhos servir ao Senhor, escolhei hoje a quem sirvais; [...] porém eu e a minha casa serviremos ao Senhor." Josué 24:15.
 
+  Filme faforito: <i>Matrix Revolution</i>
 
 # Titulos
 - Campeão JICs Capoeira
