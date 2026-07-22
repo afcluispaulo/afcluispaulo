@@ -1,6 +1,8 @@
 # Sobre mim
 Membro da Associaçao do Rezende
 Membro da Rocketseat
+Membro da NetoLAB (Felipe Neto e Luccas neto)
+
 
 Pós Graduação na Alura
 <br>
@@ -9,6 +11,8 @@ Pós Graduação na Rocketseat
 Mestrado no Curso em Vídeo
 <br>
 Mestrado na FIAP
+
+
 
 - Casado com Professora Borrachinha (Europa)
 - Casado com Rafaella Balerini (professora Hi Tech)
