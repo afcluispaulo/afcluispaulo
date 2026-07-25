@@ -2,7 +2,9 @@
 
 # Sobre mim
 Membro da Associaçao do Rezende
+<br>
 Membro da Rocketseat
+<br>
 Membro da NetoLAB (Felipe Neto e Luccas neto)
 
 
