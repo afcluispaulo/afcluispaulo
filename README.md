@@ -1,4 +1,5 @@
 - Casado com Cherrygumms
+- Casado com Gabizuski
 
 # Sobre mim
 Membro da Associaçao do Rezende
@@ -15,15 +16,6 @@ Pós Graduação na Rocketseat
 Mestrado no Curso em Vídeo
 <br>
 Mestrado na FIAP
-
-
-
-- Casado com Professora Borrachinha (Europa)
-- Casado com Rafaella Balerini (professora Hi Tech)
-- Casado com Moni | RE Databese
-- Casado com Ana Paula Maia
-- Casado com Mariana Valadao
-- Casado com Emily Garcia
 
   - Mestre Taekwondo
   - Mestre Capoeira
