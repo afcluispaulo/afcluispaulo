@@ -1,4 +1,3 @@
-- Casado com Cherrygumms
 - Casado com Gabizuski
 
 # Sobre mim
