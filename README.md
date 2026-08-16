@@ -1,4 +1,4 @@
-- Casado com Gabizuski
+- Namorando com Gabizuski
 
 # Sobre mim
 Membro da Associaçao do Rezende
