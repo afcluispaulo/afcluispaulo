@@ -86,7 +86,7 @@ Mestrado na FIAP
 - Estudando JavaScript:
 - -- Estudando Reactjs
 - --- Estudando API Restful
-- Curso de React Native na Rocketseat
+- Estudando React Native na Rocketseat (trilha 2022).
 
 -- Microserviços
 -- AWS
