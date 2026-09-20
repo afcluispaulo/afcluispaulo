@@ -1,3 +1,6 @@
+Trabalhando na Rocketseat
+Trabalhando na Seleção Brasileira de Futebol
+
 - Namorando com Gabizuski
 
 # Sobre mim
