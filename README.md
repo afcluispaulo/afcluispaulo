@@ -1,4 +1,4 @@
-<i> Vou pedir licença pra contar a minha história </i> Saga de um vaqueiro, Xand Avião</i>
+<i> Vou pedir licença pra contar a minha história. </i> Saga de um vaqueiro, Xand Avião</i>
 <br>
 <br>
 Trabalhando na Rocketseat
