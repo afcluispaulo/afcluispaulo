@@ -3,6 +3,8 @@
 <br>
 Trabalhando na Rocketseat
 <br>
+Trabalhando no Flamengo como FullCycle
+<br>
 Trabalhando na Seleção Brasileira de Futebol como FullCycle
 
 - Namorando com Gabizuski
