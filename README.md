@@ -11,11 +11,6 @@ Trabalhando na Seleção Brasileira de Futebol como FullCycle
 
 # Sobre mim
 Membro da Associaçao do Rezende
-<br>
-Membro da Rocketseat
-<br>
-Membro da NetoLAB (Felipe Neto e Luccas neto)
-
 
 Pós Graduação na Alura
 <br>
