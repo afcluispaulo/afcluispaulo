@@ -115,7 +115,7 @@ Mestrado na FIAP
 
 ## Graduações
 
--- Mestre de Capoeira Angola e Regional
+-- Instrutor da capoeira Capoeira Angola e mestre da Regional
 -- Faixa Preta Taekwondo
 -- Faixa Preta Karate
 -- Faixa preta Jiu Jitsu
