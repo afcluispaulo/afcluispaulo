@@ -137,7 +137,7 @@ Mestrado na FIAP
    <img align="center" alt="LP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="LP-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="LP-NodeJs" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="LP-NodeJs" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/python-original.svg">
+  
 
  </div>
   
