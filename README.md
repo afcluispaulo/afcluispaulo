@@ -6,86 +6,14 @@ Trabalhando na Rocketseat
 Trabalhando no Flamengo como FullCycle
 <br>
 Trabalhando na Seleção Brasileira de Futebol como FullCycle
-
-- Namorando com Gabizuski
-
-# Sobre mim
-Membro da Associaçao do Rezende
-
-Pós Graduação na Alura
 <br>
-Pós Graduação na Rocketseat
-
-Mestrado no Curso em Vídeo
-<br>
-Mestrado na FIAP
-
-  - Mestre Taekwondo
-  - Mestre Capoeira
-  - Mestre Jiu Jitsu
-  - Grao Mestre Muay Thai
-
--- Padrinhos
-- Kaio kcep
-- Savio Dantas
-- Miguel Arcanjo
-- Pre g uet
-
-  
-- Desenvolvedor Team Leader
-
-  <i> O segredo da programação em IA eh um encadeamento de if/else gigante </i>
-
-  Filme faforito: <i>Matrix Revolution</i>
-
-# Titulos
-- Campeão JICs Capoeira
-- Campeão JICs Taekwondo
-- Campeão JERNs Capoeira
-- Campeão JERNs Taekwondo
-- Campeão JERNs Muay Thai
-
-- Campeão Regional Capoeira
-- Campeão Regional Taekwondo
-- Campeão Regional Muay Thai
-- Campão Regional Kickboxing
-
-## Prestigios
-- Prestigio Call Of Duty
-- Prestigio CDZForever
-- Prestigio Arenachat
-- Prestigio SS
-- Prestigio Pokémon
-- Prestigio DBZ
-- Prestigio Fifa
-- Prestigio Winning Eleven
-
-## KIMURA NOVA UNIÃO ##
-
-# Trabalhos
--- Rocketseat (programa Team Leader (profesor de galera)
--- Desenvolvedor da Apple
--- Desenvolvedor do Clube de Regatas do Flamengo
-
-# Graduações 
-- Formado em Sistemas de Informação
-- Formado em Redes de Computadores
-- Formado em Segurança da Informção
-
-- Formado em Lógica de Programaçao no Estudonauta
-- Formado em Lógica de Programação no Curso em Vóideo
-- Formado em Desenvolvimento Web no Curso em Vídeo
-- Formado em Java no Curso em Vídeo
-
-# Mestrados
--- Mestrado em SIstemas de Informação na Federal
--- Mestrado em Banco de Dados na Federal
--- Mestrado em Redes de Computadores na Federal
--- Mestrado em Segurança de Informação na Federal
 
 - Curso de Lógica de Programaçåo nas plataformas Estudonauta
+<br>
 - Curso de Lógica de Programaçåo em Python no Curso em Video
+<br>
 - Curso de Git e Github no Curso em Video
+<br>
 - Estudando na Rocketseat: programa Explorer
 - Estudando JavaScript:
 - -- Estudando Reactjs
