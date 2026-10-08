@@ -35,16 +35,17 @@ Trabalhando na Seleção Brasileira de Futebol como FullCycle
 -- ReactJS
 -- TypeScript
 
+#BackEnd
+-KnexJS
+-Java
 
 ## Graduações
 
 -- Instrutor da capoeira Capoeira Angola e mestre da Regional
 -- Faixa Preta Taekwondo
--- Faixa Preta Karate
--- Faixa preta Jiu Jitsu
--- Faixa preta Judo
 -- Faixa Preta Kickboxing
--- 
+-- Prajied primeiro no Muay Thai
+- Prajied preto muay thai (Natal-RN)
 
 ## Linguagens e progresso
 <div align="center">
