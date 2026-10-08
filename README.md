@@ -23,7 +23,7 @@ Trabalhando na Seleção Brasileira de Futebol como FullCycle
 - --- Estudando API Restful
 <br>
 - Curso de React Native na Rocketseat (trilha 2022).
-
+<br><br>
 -- Microserviços
 <br>
 -- AWS
