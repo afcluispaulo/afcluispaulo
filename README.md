@@ -9,6 +9,7 @@ Trabalhando na Seleção Brasileira de Futebol como FullCycle
 <br>
 
 - Curso de Lógica de Programaçåo nas plataformas Estudonauta
+<br>
 - Curso de Lógica de Programaçåo em Python no Curso em Video
 <br>
 - Curso de Git e Github no Curso em Video
