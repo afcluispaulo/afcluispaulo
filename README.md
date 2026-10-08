@@ -15,14 +15,21 @@ Trabalhando na Seleção Brasileira de Futebol como FullCycle
 - Curso de Git e Github no Curso em Video
 <br>
 - Estudando na Rocketseat: programa Explorer
+<br>
 - Estudando JavaScript:
+<br>
 - -- Estudando Reactjs
+<br>
 - --- Estudando API Restful
+<br>
 - Curso de React Native na Rocketseat (trilha 2022).
 
 -- Microserviços
+<br>
 -- AWS
+<br>
 -- Kubernetes
+<br>
 
 #Javascript
 -- Typescript
