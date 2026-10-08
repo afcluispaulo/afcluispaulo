@@ -27,13 +27,13 @@ Trabalhando na Seleção Brasileira de Futebol como FullCycle
 -- AWS
 <br>
 -- Kubernetes
-<br>
+<br><br>
 
-#Javascript
--- Typescript
--- Sequelize
--- mongoDB
--- KnexJS
+#Javascript<br>
+-- Typescript<br>
+-- Sequelize<br>
+-- mongoDB<br>
+-- KnexJS<br>
 <br><br>
 #FrontEnd
 -- React Native
