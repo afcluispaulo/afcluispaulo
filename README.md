@@ -36,16 +36,16 @@ Trabalhando na Seleção Brasileira de Futebol como FullCycle
 -- Sequelize
 -- mongoDB
 -- KnexJS
-
+<br><br>
 #FrontEnd
 -- React Native
 -- ReactJS
 -- TypeScript
-
+<br><br>
 #BackEnd
 -KnexJS
 -Java
-
+<br><br>
 ## Graduações
 
 -- Instrutor da capoeira Capoeira Angola e mestre da Regional
