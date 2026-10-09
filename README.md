@@ -46,10 +46,10 @@ Trabalhando na Seleção Brasileira de Futebol como FullCycle
 <br><br>
 ## Graduações
 
--- Instrutor da capoeira Capoeira Angola e mestre da Regional
--- Faixa Preta Taekwondo
--- Faixa Preta Kickboxing
--- Prajied primeiro no Muay Thai
+-- Instrutor da capoeira Capoeira Angola e mestre da Regional<br>
+-- Faixa Preta Taekwondo<br>
+-- Faixa Preta Kickboxing<br>
+-- Prajied primeiro no Muay Thai<br>
 - Prajied preto muay thai (Natal-RN)
 
 ## Linguagens e progresso
