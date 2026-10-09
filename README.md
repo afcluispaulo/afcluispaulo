@@ -35,13 +35,13 @@ Trabalhando na Seleção Brasileira de Futebol como FullCycle
 -- mongoDB<br>
 -- KnexJS<br>
 <br><br>
-#FrontEnd
--- React Native
--- ReactJS
+#FrontEnd<br>
+-- React Native<br>
+-- ReactJS<br>
 -- TypeScript
 <br><br>
-#BackEnd
--KnexJS
+#BackEnd<br>
+-KnexJS<br>
 -Java
 <br><br>
 ## Graduações
