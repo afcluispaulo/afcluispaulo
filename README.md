@@ -1,6 +1,7 @@
 # Sobre mim
 <i> Vou pedir licença pra contar a minha história. </i> Saga de um vaqueiro, Xand Avião</i>
 <br>
+Formado em Sistemas de Informação em 2018.2 <br>
 Desenvolvedor Sênior nos interiores, e NE.<br>
 Desenvolvedor Pleno nas capitais, e outras regiões. <br>
 <br>
