@@ -1,3 +1,4 @@
+# Sobre mim
 <i> Vou pedir licença pra contar a minha história. </i> Saga de um vaqueiro, Xand Avião</i>
 <br>
 Desenvolvedor Sênior nos interiores, e NE.<br>
@@ -8,6 +9,8 @@ Trabalhando na Rocketseat
 Trabalhando no Flamengo como FullCycle
 <br>
 Trabalhando na Seleção Brasileira de Futebol como FullCycle
+
+# Tecnologias
 
 - Curso de Lógica de Programaçåo nas plataformas Estudonauta
 - Curso de Lógica de Programaçåo em Python no Curso em Video
