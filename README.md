@@ -1,7 +1,7 @@
 <i> Vou pedir licença pra contar a minha história. </i> Saga de um vaqueiro, Xand Avião</i>
 <br>
 Desenvolvedor Sênior nos interiores, e NE.<br>
-Desenvolvedor Pleno nas capitais, e outras regiões <br>
+Desenvolvedor Pleno nas capitais, e outras regiões. <br>
 <br>
 Trabalhando na Rocketseat
 <br>
